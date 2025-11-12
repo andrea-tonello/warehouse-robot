@@ -1,4 +1,4 @@
-# RL project
+# Warehouse Robot
 
 This project implements and compares TD Control and Function Approximation agents (Q-Learning, SARSA, and Deep Q-Networks) on a custom warehouse environment. The goal is to sort crates onto their designated goal positions in a grid-based warehouse, avoiding obstacles and optimizing for reward (and speed).
 
